@@ -1,0 +1,8 @@
+.circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: aliceblue;
+    color: black;
+    font-size: 22px;
+}
