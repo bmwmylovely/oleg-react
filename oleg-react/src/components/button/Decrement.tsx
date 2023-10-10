@@ -8,7 +8,7 @@ export interface IDecrementButton {
 export const IDecrementButton: React.FunctionComponent<IDecrementButton> = ({onClick}) => {
     return (
         <Button onClick={onClick}>
-            Добавить
+            Удавить
         </Button>
     )
 }

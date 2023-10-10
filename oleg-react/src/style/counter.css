@@ -5,4 +5,7 @@
     background: aliceblue;
     color: black;
     font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
